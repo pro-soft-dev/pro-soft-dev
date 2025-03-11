@@ -1,25 +1,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pro-soft-dev" alt="pro-soft-dev" /></p>
 
-
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> everyone</h1>
 <p align = "justify">Full stack developer, code enthusiast, JavaScript and TypeScript supporter, SPA and SSR fan. Passionate about clean architecture and scalable systems. Proficient in React, Vue.js and Node.js. Currently exploring React Native, Nest.js and Blockchain development.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [![Gmail Badge](https://img.shields.io/badge/-soft.buddy@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=soft.buddy@outlook.com)](mailto:soft.buddy@outlook.com)
 
